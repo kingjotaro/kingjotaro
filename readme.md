@@ -1,11 +1,5 @@
 # Rafael Lourenço
-Pseudo-economista desenvolvendo softwares, atualmente focado em Webdev..
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=kingjotaro&show_icons=true&theme=radical"/>
-   </a>
-
-## Ferramentas
+# Webscrapper
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
